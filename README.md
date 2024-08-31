@@ -23,18 +23,18 @@ User-Friendly Interface:
 The application is built using Streamlit, providing a simple and intuitive interface for users to interact with the tool.
 Technologies Used:
 
-*Python:* The core programming language used to develop the application.
-*Streamlit:* A web framework used to create the interactive user interface.
-Google Generative AI (Gemini Model): The AI model used for generating content and evaluating resumes.
-*PDF2Image:* A Python library used to convert PDF files into images for processing.
-*PIL (Pillow):* Used for image processing within the application.
-*Python-dotenv:* Used to manage environment variables, including API keys.
-Use Cases:
+- *Python:* The core programming language used to develop the application.
+- *Streamlit:* A web framework used to create the interactive user interface.
+- Google Generative AI (Gemini Model): The AI model used for generating content and evaluating resumes.
+- *PDF2Image:* A Python library used to convert PDF files into images for processing.
+- *PIL (Pillow):* Used for image processing within the application.
+- *Python-dotenv:* Used to manage environment variables, including API keys.
+## Use Cases:
 
-**Job Seekers:** Enhance their resumes by understanding how well their resume matches specific job descriptions and identify areas for improvement.
-**HR Professionals**: Quickly evaluate multiple resumes against a job description to streamline the recruitment process.
-**Career Coaches:** Offer clients data-driven feedback on their resumes, helping them tailor their applications for specific roles.
-**Conclusion:** The ATS Resume Expert project combines advanced AI technology with a user-friendly interface to provide a powerful tool for resume evaluation. It not only simplifies the job application process but also empowers users with actionable insights, improving their chances of landing the desired job. This project is ideal for anyone looking to bridge the gap between resume presentation and job requirements.
+- **Job Seekers:** Enhance their resumes by understanding how well their resume matches specific job descriptions and identify areas for improvement.
+- **HR Professionals**: Quickly evaluate multiple resumes against a job description to streamline the recruitment process.
+- **Career Coaches:** Offer clients data-driven feedback on their resumes, helping them tailor their applications for specific roles.
+- **Conclusion:** The ATS Resume Expert project combines advanced AI technology with a user-friendly interface to provide a powerful tool for resume evaluation. It not only simplifies the job application process but also empowers users with actionable insights, improving their chances of landing the desired job. This project is ideal for anyone looking to bridge the gap between resume presentation and job requirements.
 fild to put jd
 upload pdf
 pdf to image --->processing--.Google gemini pro
